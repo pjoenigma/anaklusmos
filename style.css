@@ -1,0 +1,28 @@
+body {
+  font-family: Inconsolata, monospace;
+  color: #000080;
+  background-color: #D5F3FE;  
+}
+.page-subtitle {
+  font-family: Inconsolata, monospace;
+  font-size: 20px;
+  color: #000080
+}
+.txt  {
+  font-family: Inconsolata, monospace;
+  font-size: 15px;
+  color: #000080
+}
+.uepa  {
+  color: #D5F3FE
+}
+.img {
+  width: 300px
+}
+.page-logo {
+  width: 50px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
